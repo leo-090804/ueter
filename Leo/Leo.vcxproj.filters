@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Homeworks">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Product.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="CircumstanceSize.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="basicLoop.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="taxi.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="evenCount.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="renting.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="salary.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="age.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="ptb2.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="getSum.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="getProduct.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="getDecimal.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="sumOfsum.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="sumOfpower.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="tempChange.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="prImeNumber.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="rightTriangle.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="secondArray.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="firstArray.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="ascending.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="42.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="chickenAnddog.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="twoDimensionalarray.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="primeNumberSorting.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="happyDay.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="sameString.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="divide5.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="sumOfFactorial.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="sumOfSquare.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="sqrtRecursion.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+    <ClCompile Include="printOneTime.cpp">
+      <Filter>Homeworks</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
